@@ -23,7 +23,8 @@ Using an AI-powered data extraction platform (Nanonets), this agent automates th
 
 Below is a snapshot of the AI Agent in action, successfully processing a live invoice and preparing the structured output:
 
-![Invoice Extraction Workflow](image.png)
+<img width="1920" height="1140" alt="Invoice_to_Purchase_Order" src="https://github.com/user-attachments/assets/acc95d0b-e808-44e7-8e00-cbcba576e4b6" />
+
 
 ## 💼 Business Impact & Use Case
 This automation pipeline is highly scalable and directly applicable to corporate environments, specifically within:
